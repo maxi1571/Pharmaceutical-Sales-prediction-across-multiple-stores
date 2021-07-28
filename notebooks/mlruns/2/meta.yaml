@@ -1,0 +1,4 @@
+artifact_location: file:///home/michael/Pharmaceutical-Sales-prediction-across-multiple-stores/notebooks/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: Cusotmer_Exp

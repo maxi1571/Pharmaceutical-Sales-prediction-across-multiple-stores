@@ -1,0 +1,15 @@
+artifact_uri: file:///home/michael/Pharmaceutical-Sales-prediction-across-multiple-stores/notebooks/mlruns/1/25db1e2f090f43c795d7a77f07de01ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+name: ''
+run_id: 25db1e2f090f43c795d7a77f07de01ab
+run_uuid: 25db1e2f090f43c795d7a77f07de01ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627482045445
+status: 1
+tags: []
+user_id: root
