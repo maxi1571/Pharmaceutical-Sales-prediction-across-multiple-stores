@@ -1,0 +1,10 @@
+2021-08-02 22:38:42,512 CRITICAL This is a critical level msg!: 
+Traceback (most recent call last):
+  File "/tmp/ipykernel_37064/1293879231.py", line 20, in <module>
+    df_store = pd.read_csv(data_url)
+NameError: name 'data_url' is not defined
+2021-08-02 22:47:27,880 CRITICAL This is a critical level msg!: 
+Traceback (most recent call last):
+  File "/tmp/ipykernel_37064/1293879231.py", line 20, in <module>
+    df_store = pd.read_csv(data_url)
+NameError: name 'data_url' is not defined
