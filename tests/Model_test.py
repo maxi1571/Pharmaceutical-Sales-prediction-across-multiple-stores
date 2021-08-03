@@ -128,7 +128,7 @@ def reconstruct_sets(features):
 
 x_train, x_val, y_train, y_val, x_test = reconstruct_sets(features)
 
-clf=RandomForestRegressor(n_estimators=10)
+clf=RandomForestRegressor(n_estimators=14)
 clf.fit(x_train,y_train)
 y_pred = clf.predict(x_val)
 print("MSE =", mean_squared_error(y_val, y_pred))
