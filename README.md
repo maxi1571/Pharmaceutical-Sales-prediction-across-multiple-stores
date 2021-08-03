@@ -66,9 +66,9 @@ information for each store throughout the data collected years and additional te
 		Mean R2 score on validation data = 0.998
 
 		
-####Xgboost
+#### Xgboost
 
-#####Hyperparameters values tuned
+##### Hyperparameters values tuned
 
 		alpha = 11
 		learning_rate = 0.09
