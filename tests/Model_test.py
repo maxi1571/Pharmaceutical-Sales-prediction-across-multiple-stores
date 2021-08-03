@@ -16,9 +16,9 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 import warnings
 warnings.filterwarnings(action="ignore")
 
-df_train = pd.read_csv('../Scripts/pages/train.csv')
-df_store = pd.read_csv('../Scripts/pages/store.csv')
-df_test = pd.read_csv('../Scripts/pages/test.csv')
+df_train = pd.read_csv('./Scripts/pages/train.csv')
+df_store = pd.read_csv('./Scripts/pages/store.csv')
+df_test = pd.read_csv('./Scripts/pages/test.csv')
 
 merged_train = pd.merge(left = df_train, right = df_store, how = 'inner', left_on = 'Store', right_on = 'Store')
 merged_test = pd.merge(left = df_test, right = df_store, how = 'inner', left_on = 'Store', right_on = 'Store')
