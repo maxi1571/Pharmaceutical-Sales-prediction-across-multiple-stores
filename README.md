@@ -9,7 +9,7 @@ Rossmann Pharmaceuticals stores across several cities.
 * The data used contains 3 different informations which are the store information and the sales
 information for each store throughout the data collected years and additional test csv file to test the output.
 
-### Rows
+### Columns
 
 * Sales: the turnover for any given day (target variable).
 * Customers: the number of customers on a given day.
