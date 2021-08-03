@@ -108,7 +108,3 @@ other days.
 * The LSTM Model can do give a better prediction prefromance if layers are increased and training Epochs are increase, 
 but for this expriement the training epoch and hiddlen layers are less. 
 * The best Model from the Metrics out put is Random forest. 
-
-## Limitation 
-
-* Because of less computation resource Expermentation on LSTM wasn't 
